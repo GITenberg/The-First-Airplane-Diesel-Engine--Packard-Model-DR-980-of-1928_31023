@@ -1,0 +1,26 @@
+_repo: The-First-Airplane-Diesel-Engine--Packard-Model-DR-980-of-1928_31023
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31023-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meyer, Robert B.
+    gutenberg_agent_id: '34962'
+    url: http://www.gutenberg.org/2009/agents/34962
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31023'
+  lccn: '65061626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Airplanes -- Motors (Diesel)'
+title: 'The First Airplane Diesel Engine: Packard Model DR-980 of 1928'
+url: http://www.gutenberg.org/ebooks/31023
